@@ -89,7 +89,7 @@ When the requester authorizes publication:
 1. Create or update a clear Topic directory under `content/`.
 2. Use the topic page to show the Topic, recommended metrics, explainable rank, adjacent references, and unknowns.
 3. Create Reading Cards only for papers whose relevant sections were actually read.
-4. Update `content/papers/index.md`, the parent category index, and `content/index.md` when a new Topic is published.
+4. Update the relevant topic, paper, parent index, and `content/index.md` pages when a new Topic is published.
 5. Run the repository validation, formatting, typecheck, and build commands before committing.
 
 Do not publish a ranking as an objective or permanent paper-quality leaderboard. It is a Topic-specific reading recommendation and must retain its metric rationale and unknowns.

@@ -1,5 +1,11 @@
+node_modules/
+public/
+.quartz-cache/
+tmp/
+pnpm-lock.yaml
+pnpm-workspace.yaml
+tsconfig.tsbuildinfo
 .DS_Store
 .env
 .env.*
 *.log
-node_modules/
